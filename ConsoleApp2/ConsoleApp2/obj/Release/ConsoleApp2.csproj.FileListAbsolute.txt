@@ -1,0 +1,10 @@
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.manifest
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.application
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe.manifest
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.application
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\family\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb

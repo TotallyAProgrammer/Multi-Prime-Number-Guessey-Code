@@ -1,0 +1,22 @@
+Question To Test:
+How does the programming language effect how fast a command can be processed?
+
+Languages to test:
+C
+Python 3.5.3
+C#
+Perl
+
+Hypothesis To Test:
+I predict that C will be able to process the command the fastest becuase it is one of the languages that are used to create operating system kernels.
+And because it is rather old therfore giving it more possible time for its compilers to be optimized for faster outputed code.
+
+How can this impact the real world (Purpose):
+With this imformation, people can use it to create programs that run more effectivly. There for, allowing bigger programs to be created to
+process more information and solve more and more complex problems, like Self Learning Artificial Inteligence (S.L.A.I.).
+
+Program ideas/Notes:
+Program to find prime numbers (Because it needs processing power)
+Perl comes with it's own IDE
+C#.NET Compile on windows only
+C is compiled with VS CL
